@@ -17,9 +17,6 @@ Crypt Text has quite a handful of features they include;
 - Auto create a hidden backup database to prevent data loss in case the file gets corrupted while saving (the backup file is saved with the name: ."database name").
 - Note search.
 
-**What is the minimum length of characters to set a password?**
-
-- The minimum password for a database is one character, however, it's not advisable to secure a database with just a single digit or alphabet. Crypt Text allows numeric and alphabetic password entry. For more security, create a password mixed with alphabets and numbers at least 8 characters.
 
 **Can I change my database password at a later time?**
 
