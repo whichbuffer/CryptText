@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\NoteCrypt\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\NoteCrypt\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2,4,22,18,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "19,66,961,761,586",
+                        "endLines": "2,12,24,20,16",
+                        "endColumns": "43,12,12,12,12",
+                        "endOffsets": "58,578,1154,953,753"
+                    },
+                    "to": {
+                        "startLines": "2,3,12,15,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,99,608,804,999",
+                        "endLines": "2,11,14,17,20",
+                        "endColumns": "43,12,12,12,12",
+                        "endOffsets": "94,603,799,994,1164"
+                    }
+                }
+            ]
+        }
+    ]
+}

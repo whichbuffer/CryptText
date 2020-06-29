@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_textSize_entries">
+        <item>Muito pequena</item>
+        <item>Pequena</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Muito Grande</item>
+    </string-array>
+    <string-array name="pref_textSize_values">
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>25</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_changePassword">Mudar Senha</string>
+    <string name="action_delete">Apagar</string>
+    <string name="action_donate">Doar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_filter">Filtrar por marcador</string>
+    <string name="action_newNote">Adicionar Nova Nota</string>
+    <string name="action_overwrite">Sobrescrever</string>
+    <string name="action_remove">Remover</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_sort">Ordenar Lista</string>
+    <string name="action_starred">Importante</string>
+    <string name="app_name">Crypt Text</string>
+    <string name="butt_create">Criar</string>
+    <string name="butt_open">Abrir</string>
+    <string name="deleteRecent_message">Apagar o banco de dados?\nEssa ação é irreversível.</string>
+    <string name="desc_fileManager">Abrir Gerenciador De Arquivos</string>
+    <string name="dialog_backClose">Realmente deseja fechar o banco de dados?</string>
+    <string name="dialog_backNoSave">Sua edição não será salva.\nTem certeza que deseja sair?</string>
+    <string name="dialog_deleteNote">Voce tem certeza que deseja apagar essa nota?</string>
+    <string name="explain_external_permission">Crypt Text requer permissões de leitura e escrita para a memória de armazenamento do telefone para guardar as suas notas. Se voce bloquear tal acesso de forma permanente depois poderá garatir esses acessos através das seguintes opções de seu aparelho Configurações Do Sistemas->Aplicativos->Crypt Text</string>
+    <string name="hint_field_conf_password">Confirmar Senha</string>
+    <string name="hint_field_new_password">Nova Senha</string>
+    <string name="hint_field_password">Senha</string>
+    <string name="hint_field_tags">Marcador1, Marcador2, Marcador3…</string>
+    <string name="hint_field_title">Título</string>
+    <string name="later">Talvez mais tarde</string>
+    <string name="localeWarning">É altamente recomendado usar uma senha que possua caracetres do alfabeto latino (A-Z), números e símbolos.</string>
+    <string name="no">Não</string>
+    <string name="no_notes">Sem notas aqui.\nAperte o botão + para adicionar uma nota.</string>
+    <string name="no_textNote">Texto Com Nota Vazia.</string>
+    <string name="note_note">Notas:</string>
+    <string name="overwrite_message">Já existe um arquivo com esse nome, se continuar o arquivo será sobrescrito.</string>
+    <string name="pref_drawer">Filtrar animação ao iniciar</string>
+    <string name="pref_drawer_summ">Exibir a animação do desenho de filtro na direita</string>
+    <string name="pref_textSize">Mudar o tamanho da fonte das notas</string>
+    <string name="pref_textSize_default">20</string>
+    <string name="rate">Avalie</string>
+    <string name="rate_message">Se voce adora o Crypt Text, Serei muito grato por sua avaliação do aplicativo na loja. Muito obrigado.</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sure">Certeza</string>
+    <string name="sure_rate">Avalie agora</string>
+    <string name="tags_note">Marcadores:</string>
+    <string name="title_backClose">Fechar</string>
+    <string name="title_changeMasterPass">Insira Uma Nova Senha Mestre</string>
+    <string name="title_databaseLocation">Insira Nome Do Banco De Dados:</string>
+    <string name="title_deleteNote">Apagar Nota</string>
+    <string name="title_note">Título:</string>
+    <string name="title_password">Insira A Senha</string>
+    <string name="title_recentDB">Banco de dados no diretório recente e padrão (clique para abrir):</string>
+    <string name="toast_IOError">Erro De E/S!</string>
+    <string name="toast_createdBy">\nCriado por Arda Büyükkaya</string>
+    <string name="toast_emptyPassword">Uma senha vazia não é permitida</string>
+    <string name="toast_errorCreatingDB">Erro ao criar o banco de dados.\nVerifique a exatidão do caminho</string>
+    <string name="toast_errorInvalidKey">Erro! Provavelmente a senha inserida possui algum caractere não permitido</string>
+    <string name="toast_errorVersion">Erro para encontrar a versão!</string>
+    <string name="toast_fatalError">ERRO FATAL!</string>
+    <string name="toast_fieldsNotFilled">Campos não preenchidos corretamente</string>
+    <string name="toast_sort_alphabet">Ordem alfabética</string>
+    <string name="toast_sort_creation">Ordem por criação</string>
+    <string name="toast_success_changePsw">Senha alterada com sucesso</string>
+    <string name="toast_success_deleteNote">Apagada com sucesso</string>
+    <string name="toast_success_newDB">Banco De Dados Criado Com Sucesso</string>
+    <string name="toast_success_newNote">Nota Criada Com Sucesso</string>
+    <string name="toast_version">Versão Do Crypt Text</string>
+    <string name="toast_wrongNewPassword">Senhas não coincidem</string>
+    <string name="toast_wrongPassword">Senha errada ou banco de dados corrompido</string>
+    <string name="toast_wrongPath">Erro de leitura no banco de dados.\nVerifique o caminho correto do diretório.</string>
+    <string name="upgrade_message">Por favor considere me doar um cafezinho ao comprar a versão do Crypt Text Donate/Pro.\nAssim voce também receberá funcionalidades adicionais.</string>
+    <string name="warning">Atenção</string>
+    <string name="yes">Sim</string>
+</resources>

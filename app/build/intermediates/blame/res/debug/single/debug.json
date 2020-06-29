@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_star_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_important_blue.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_important_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\menu_database_opened.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\menu\\database_opened.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_warning.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_warning.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\menu_save_change.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\menu\\save_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_not_important.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\menu_read_note.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\menu\\read_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vpn_key_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_vpn_key_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vpn_key_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vpn_key_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_important.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_warning.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vpn_key_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_vpn_key_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape_pressed.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable\\button_shape_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_layout.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_folder_open_grey600_36dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_insert_password.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\insert_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_read_note.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\activity_read_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_drawable_button.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable\\selector_drawable_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_note.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\activity_add_new_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vpn_key_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_vpn_key_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_folder_open_grey600_36dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_important.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape_notpressed.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable\\button_shape_notpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_database.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\activity_select_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_new_password.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout-v21\\new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sort.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_bold.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\font\\open_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_password.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_select_database.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout-v21\\activity_select_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_primary_round.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-v21\\primary_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_important.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_important_blue.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_important_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xhdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_important_blue.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_important_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_folder_open_grey600_36dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_collection.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-hdpi\\ic_action_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_layout_selector.xml.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable\\drawer_layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_filter_list_white_24dp.png"
+    }
+]

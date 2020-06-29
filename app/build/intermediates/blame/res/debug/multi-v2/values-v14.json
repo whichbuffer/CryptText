@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\whichbuffer\\cryptext\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\whichbuffer\\cryptext\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2,4,22,18,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "19,66,941,741,566",
+                        "endLines": "2,12,24,20,16",
+                        "endColumns": "43,12,12,12,12",
+                        "endOffsets": "58,558,1134,933,733"
+                    },
+                    "to": {
+                        "startLines": "2,3,12,15,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,99,588,784,979",
+                        "endLines": "2,11,14,17,20",
+                        "endColumns": "43,12,12,12,12",
+                        "endOffsets": "94,583,779,974,1144"
+                    }
+                }
+            ]
+        }
+    ]
+}

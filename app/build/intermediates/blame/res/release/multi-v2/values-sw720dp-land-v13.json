@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\NoteCrypt\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\NoteCrypt\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "8,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "272,206",
+                        "endColumns": "43,58",
+                        "endOffsets": "311,260"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,58",
+                        "endOffsets": "94,153"
+                    }
+                }
+            ]
+        }
+    ]
+}
