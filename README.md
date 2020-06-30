@@ -31,6 +31,7 @@ Crypt Text has quite a handful of features they include;
 
 - Yes, an unwanted database can be deleted. All notes contained in that database will be lost.
 
+
 **What location is a database saved in my device storage?**
 
 - Every database created is automatically saved to a location "Crypt Text" on your local device storage. 
@@ -88,3 +89,4 @@ To mark a note as important or favorite note,
 - No, Crypt Text is an open source software that is totally free and contains no unnecessary ads and in-app purchases.
 
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/whichbuffer/CryptText.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/whichbuffer/CryptText/alerts/)   [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/whichbuffer/CryptText.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/whichbuffer/CryptText/context:java)
